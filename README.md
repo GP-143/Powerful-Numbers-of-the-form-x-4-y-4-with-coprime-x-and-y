@@ -1,4 +1,4 @@
-# Powerful Numbers of the form $x^4+y^4$ with gcd(x,y)=1
+# Powerful Numbers of the form $x^4+y^4$ with $gcd(x,y)=1$
 
 Powerful values of $x^4 + y^4$ : A corrected computational search and rank-parity observations
 
